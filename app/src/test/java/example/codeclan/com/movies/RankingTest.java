@@ -42,7 +42,7 @@ public class RankingTest {
     public void canGetMovieByName(){
         assertEquals("Battle Royale, the Sci Fi Thriller is at ranking 8.", rankings.titleSearch("Battle Royale").entry());
     }
-    
+
 
 
 }

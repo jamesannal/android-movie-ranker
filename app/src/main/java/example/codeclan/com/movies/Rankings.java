@@ -14,7 +14,7 @@ public class Rankings {
         addMovie(new Movie("Naked Gun", "Comedy", 4));
         addMovie(new Movie("Guardians of the Galaxy", "Superhero", 5));
         addMovie(new Movie("Deadpool", "Superhero", 6));
-        addMovie(new Movie("Last Night", "Apocalyptic Sci Fi", 7));
+        addMovie(new Movie("A Christmas Story", "Comedy", 7));
         addMovie(new Movie("Battle Royale", "Sci Fi Thriller", 8));
         addMovie(new Movie("Once Upon A Time In China", "Historical Epic With Ass Kicking", 9));
         addMovie(new Movie("M", "Film Noir", 10));
